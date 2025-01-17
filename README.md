@@ -1,1 +1,1 @@
-# WB_L2
+# WB Tech school: task L2
